@@ -1,6 +1,6 @@
 # Mercury-LEB128
 
-`mercury_leb128` is a [Mercury](http://www.mercurylang.org) library for reading
+`mercury_leb128` is a [Mercury](https://www.mercurylang.org) library for reading
 and writing [LEB128](https://en.wikipedia.org/wiki/LEB128) encoded integers from
 byte (uint8) streams.
 
